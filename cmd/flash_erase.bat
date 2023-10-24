@@ -1,0 +1,1 @@
+python ../stm32loader --erase --port COM7 -B

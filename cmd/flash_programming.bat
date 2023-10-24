@@ -1,0 +1,1 @@
+python ../stm32loader --port COM7 --erase --write --verify dev_f405.bin -B
